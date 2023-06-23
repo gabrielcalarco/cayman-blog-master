@@ -8,7 +8,7 @@
 # Site settings
 title: Concierto Labor Intus
 description: '' # write a nice description for your blog
-baseurl: '/cayman-blog' # the subpath of your site, e.g. /blog
+baseurl: '/concierto_laborintus' # the subpath of your site, e.g. /blog
 url: 'https://gabrielcalarco.github.io/' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
 twitter_username: 'twitter_username'
