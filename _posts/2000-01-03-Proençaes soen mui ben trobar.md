@@ -26,10 +26,12 @@ aquel tempo logu’ en trobar, razon<br/>
 non an nen viven [en] qual perdiçon<br/>
 og’ eu vivo, que pois m’ á de matar.<br/>
 
+<br/>
 B 524b, V 127 ;
 Cantiga de amor.<br/>
 Cantiga de meestria, coblas unissonans<br/>
-Contrafactum de “Can lerbafresch”deBernart de Ventadorn. Texto crítico: del Rio Riande.<br/>
+Contrafactum de “Can l'erba fresch” de Bernart de Ventadorn.<br/>
+Texto crítico: del Rio Riande.<br/>
 Contrafacta: del Rio Riande-Rossi-Wachsmann<br/>
 Voz y cítola<br/>
 
