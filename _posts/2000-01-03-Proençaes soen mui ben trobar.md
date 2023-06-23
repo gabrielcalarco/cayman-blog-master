@@ -3,23 +3,25 @@ layout: post
 title: Proençaes soen mui ben trobar 
 ---
 
-Proençaes soen mui ben trobar,
-e dizen eles que é con amor,
-mais os que troban no tempo da frol
-e non en outro, sei eu ben que non 		
-an tan gran coita no seu coraçon
-qual m’ eu por mia senhor vejo levar.
+Proençaes soen mui ben trobar,<br/>
+e dizen eles que é con amor,<br/>
+mais os que troban no tempo da frol<br/>
+e non en outro, sei eu ben que non <br/>		
+an tan gran coita no seu coraçon<br/>
+qual m’ eu por mia senhor vejo levar.<br/>
 
-Pero que troban e saben loar
-sas senhores o máis e o melhor
-que eles poden, sõo sabedor 			
-que os que troban quand’ a frol sazon
-á e non ante, se Deus mi perdon,
-non an tal coita qual eu ei sen par.
+<br/>
+Pero que troban e saben loar<br/>
+sas senhores o máis e o melhor<br/>
+que eles poden, sõo sabedor 	<br/>		
+que os que troban quand’ a frol sazon<br/>
+á e non ante, se Deus mi perdon,<br/>
+non an tal coita qual eu ei sen par.<br/>
 
-Ca os que troban e que s’ alegrar 
-van eno tempo que ten a color 			
-a frol consigu’, e tanto, que se for
-aquel tempo logu’ en trobar, razon
-non an nen viven [en] qual perdiçon
-og’ eu vivo, que pois m’ á de matar.
+<br/>
+Ca os que troban e que s’ alegrar <br/>
+van eno tempo que ten a color 	<br/>		
+a frol consigu’, e tanto, que se for<br/>
+aquel tempo logu’ en trobar, razon<br/>
+non an nen viven [en] qual perdiçon<br/>
+og’ eu vivo, que pois m’ á de matar.<br/>
