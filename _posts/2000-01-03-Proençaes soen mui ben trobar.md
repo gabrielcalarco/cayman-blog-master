@@ -26,6 +26,9 @@ aquel tempo logu’ en trobar, razon<br/>
 non an nen viven [en] qual perdiçon<br/>
 og’ eu vivo, que pois m’ á de matar.<br/>
 
+
+
+<FONT SIZE=2>
 <br/>
 B 524b, V 127 ;
 Cantiga de amor.<br/>
@@ -34,6 +37,7 @@ Contrafactum de “Can l'erba fresch” de Bernart de Ventadorn.<br/>
 Texto crítico: del Rio Riande.<br/>
 Contrafacta: del Rio Riande-Rossi-Wachsmann<br/>
 Voz y cítola<br/>
+</FONT>
 
 
 
