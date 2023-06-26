@@ -20,4 +20,4 @@ permalink: '/:title/'
 
 gems: [jekyll-paginate]
 
-paginate: 10
+paginate: 20
