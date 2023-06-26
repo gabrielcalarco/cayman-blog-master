@@ -30,7 +30,7 @@ og’ eu vivo, que pois m’ á de matar.<br/>
 
 <FONT SIZE=2>
 <br/>
-B 524b, V 127 ;
+Autor: Don Denis.<br/>
 Cantiga de amor.<br/>
 Cantiga de meestria, coblas unissonans<br/>
 Contrafactum de “Can l'erba fresch” de Bernart de Ventadorn.<br/>
